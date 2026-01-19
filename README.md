@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Anuj Yadav 👋  
+Full Stack MERN Developer | DSA Learner | Product Builder
+
+I build real-world web applications using the MERN stack,
+focusing on clean UI, scalable backend, and real business use-cases.
 
 <!--
 **anujvns28/anujvns28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
