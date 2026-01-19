@@ -127,6 +127,12 @@ React, Node.js, Express.js, MongoDB, Socket.IO, Firebase, JWT, Tailwind CSS
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anujvns28)
 🔗 [LeetCode Profile](https://leetcode.com/anujvns28/)  
 
+<img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="80" />
+<img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="80" />
+<img src="https://assets.leetcode.com/static_assets/others/lg200.png" width="80" />
+
+
+
 
 
 
