@@ -19,6 +19,32 @@ MongoDB
 **Tools & Platforms:**  
 Git, GitHub, Firebase, Render, Razorpay
 
+### 📱 ScanMyMenu – QR-based Restaurant Ordering & Menu SaaS
+ScanMyMenu is a QR-based restaurant platform where shop owners manage
+their menus, orders, and business settings, while customers browse,
+filter, order, and review items through a fully digital experience.
+
+- **Google authentication** for both **shop owners and users**
+- Shop profile management with menu configuration
+- Category & product management with **stock control**
+- Advanced **menu filtering** for customers (price, category, tags, availability)
+- **QR code generation** for instant menu access
+- Customer-side **cart system** for selecting items
+- Secure **Razorpay payment integration** for order checkout
+- **Order tracking system** for shop owners to manage incoming orders
+- Product **ratings & reviews** by users
+- Offers, discounts, and today’s special highlights
+- Public customer-side menu access (no login required to browse)
+- Mobile-first, fully responsive UI for real restaurant usage
+
+**Tech Stack:**  
+React, Node.js, Express.js, MongoDB, Razorpay, Google Authentication, Tailwind CSS  
+
+🔗 [Live Demo](YOUR_LIVE_LINK) |
+🔗 [Frontend Code](YOUR_FRONTEND_REPO) |
+🔗 [Backend Code](YOUR_BACKEND_REPO)
+
+
 
 ### 🛒 ShoesDekho – Full Stack E-commerce Platform
 A marketplace-style e-commerce application where customers can browse
