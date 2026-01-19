@@ -111,5 +111,23 @@ React, Node.js, Express.js, MongoDB, Socket.IO, Firebase, JWT, Tailwind CSS
 🔗 [Backend Code](https://github.com/anujvns28/chatter-server)
 
 
+## 🧠 Data Structures & Algorithms
+
+- Solved **560+ DSA problems** on LeetCode using **C++**
+- Strong command over **core interview patterns** and problem-solving techniques
+- Hands-on experience with:
+  - Arrays, Strings, Linked List, Stack, Queue
+  - Binary Search & Hashing
+  - Recursion & Backtracking
+- **Dynamic Programming (DP): completed** with multiple variations
+- **Graphs: currently improving**
+- Comfortable solving **Easy, Medium, and Hard** level problems
+- Regular LeetCode contest participant (**Rating: 1524**)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/anujvns28)
+🔗 [LeetCode Profile](https://leetcode.com/anujvns28/)  
+
+
+
 
 
