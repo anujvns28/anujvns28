@@ -63,5 +63,27 @@ React, Node.js, Express.js, MongoDB, Razorpay, JWT, Tailwind CSS
 🔗 [Frontend Code](https://github.com/anujvns28/edTeckFrontend) |
 🔗 [Backend Code](https://github.com/anujvns28/edTechServer)
 
+### 💬 Chatter – Real-time MERN Chat Application
+A real-time chat application where users can connect with others,
+send friend requests, and communicate through one-to-one and group chats.
+
+- JWT-based authentication for secure user access
+- User search functionality to find other users on the platform
+- **Friend request system** with real-time accept/reject notifications
+- **One-to-one and group chat** support using Socket.IO
+- **Typing indicator** for real-time chat feedback
+- **Online / offline & last seen status** tracking
+- Real-time in-app notifications using Firebase
+- **Push notifications** for new messages and friend requests
+- Fully responsive chat UI for mobile and desktop
+
+**Tech Stack:**  
+React, Node.js, Express.js, MongoDB, Socket.IO, Firebase, JWT, Tailwind CSS  
+
+🔗 [Live Demo](https://chattkaro.vercel.app/) |
+🔗 [Frontend Code](https://github.com/anujvns28/chatter) |
+🔗 [Backend Code](https://github.com/anujvns28/chatter-server)
+
+
 
 
