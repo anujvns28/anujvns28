@@ -27,7 +27,7 @@ manage their own products.
 
 - JWT-based authentication with **role-based authorization** (Customer / Seller)
 - **OTP-based signup verification** for secure onboarding
-- Advanced product filtering by **price, age, gender, and rating**
+- Advanced product filtering by **search, price, age, gender, and rating**
 - Product **ratings & reviews** system for customer feedback
 - Cart management using **Redux + Context API**
 - Secure checkout with **Razorpay payment gateway** and backend verification
@@ -40,5 +40,28 @@ React, Redux, Node.js, Express.js, MongoDB, Razorpay, JWT, Tailwind CSS
 🔗 [Live Demo](https://shousedekho.vercel.app/) |
 🔗 [Frontend Code](https://github.com/anujvns28/ecommerce-frontend) |
 🔗 [Backend Code](https://github.com/anujvns28/ecommerce-server)
+
+
+### 🎓 Studynotion – Full Stack EdTech Platform
+A course-based learning platform where instructors can create and sell
+courses, and students can purchase, enroll, and track their learning
+progress.
+
+- JWT-based authentication with **role-based access** (Student / Instructor / Admin)
+- **OTP-based email verification** for secure signup
+- Instructor workflow to create courses with **Section → Lecture** structure
+- **Paid course enrollment** with Razorpay payment gateway and verification
+- **Only enrolled students** can add ratings & written reviews
+- Student dashboard with **course progress tracking**
+- Instructor dashboard to manage created courses
+- Fully responsive UI for mobile and desktop users
+
+**Tech Stack:**  
+React, Node.js, Express.js, MongoDB, Razorpay, JWT, Tailwind CSS  
+
+🔗 [Live Demo](https://studynotion-tawny.vercel.app/) |
+🔗 [Frontend Code](https://github.com/anujvns28/edTeckFrontend) |
+🔗 [Backend Code](https://github.com/anujvns28/edTechServer)
+
 
 
