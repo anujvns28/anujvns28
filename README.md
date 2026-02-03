@@ -40,7 +40,7 @@ filter, order, and review items through a fully digital experience.
 **Tech Stack:**  
 React, Node.js, Express.js, MongoDB, Razorpay, Google Authentication, Tailwind CSS  
 
-🔗 [Live Demo](https://scanmymenu.vercel.app/) |
+🔗 [Live Demo](https://scanmymenu.vercel.app/menu/697a00df720aa74b1ff9dba8) |
 🔗 [Frontend Code](https://github.com/anujvns28/ScanMyMenu) |
 🔗 [Backend Code](https://github.com/anujvns28/ScanMyMenu_server)
 
