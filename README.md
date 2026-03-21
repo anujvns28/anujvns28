@@ -82,7 +82,7 @@ progress.
 - Fully responsive UI for mobile and desktop users
 
 **Tech Stack:**  
-React, Node.js, Express.js, MongoDB, Razorpay, JWT, Tailwind CSS  
+React,TypeScript, Node.js, Express.js, MongoDB, Razorpay, JWT, Tailwind CSS  
 
 🔗 [Live Demo](https://studynotion-tawny.vercel.app/) |
 🔗 [Frontend Code](https://github.com/anujvns28/edTeckFrontend) |
@@ -112,16 +112,12 @@ React, Node.js, Express.js, MongoDB, Socket.IO, Firebase, JWT, Tailwind CSS
 
 ## 🧠 Data Structures & Algorithms
 
-- Solved **560+ DSA problems** on LeetCode using **C++**
-- Strong command over **core interview patterns** and problem-solving techniques
-- Hands-on experience with:
-  - Arrays, Strings, Linked List, Stack, Queue
-  - Binary Search & Hashing
-  - Recursion & Backtracking
-- **Dynamic Programming (DP): completed** with multiple variations
-- **Graphs: currently improving**
-- Comfortable solving **Easy, Medium, and Hard** level problems
-- Regular LeetCode contest participant (**Rating: 1524**)
+🧠 Data Structures & Algorithms
+
+Solved 560+ problems on LeetCode  
+Strong understanding of problem-solving patterns  
+Comfortable with Easy, Medium, and Hard problems  
+Regular contest participant (Rating: 1524)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anujvns28)
 🔗 [LeetCode Profile](https://leetcode.com/anujvns28/)  
