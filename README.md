@@ -1,16 +1,15 @@
-# Hi, I'm Anuj Yadav 👋  
-Frontend & Full Stack MERN Developer | DSA Problem Solver | Product Builder
+Hi, I'm Anuj Yadav 👋  
+Frontend Developer (React.js + TypeScript) | Building Scalable & User-Centric Web Apps
 
-I build user-focused frontend interfaces and full-stack MERN
-applications, and actively practice Data Structures & Algorithms
-for interview preparation.
+I specialize in building responsive, high-performance frontend applications using React and modern JavaScript/TypeScript.  
+I also have experience with full-stack MERN development and actively practice Data Structures & Algorithms for interview preparation.
 
 ## 🛠 Tech Stack
 
 **Frontend:**  
-React, JavaScript, HTML, CSS, Tailwind CSS
+React.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Redux
 
-**Backend:**  
+**Backend:(Working Knowledge)**  
 Node.js, Express.js, RESTful APIs, JWT Authentication
 
 **Database:**  
