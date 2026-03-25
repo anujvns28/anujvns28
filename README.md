@@ -84,7 +84,7 @@ progress.
 **Tech Stack:**  
 React,TypeScript, Node.js, Express.js, MongoDB, Razorpay, JWT, Tailwind CSS  
 
-🔗 [Live Demo](https://studynotion-tawny.vercel.app/) |
+🔗 [Live Demo](https://ed-teck-frontend.vercel.app/) |
 🔗 [Frontend Code](https://github.com/anujvns28/edTeckFrontend) |
 🔗 [Backend Code](https://github.com/anujvns28/edTechServer)
 
